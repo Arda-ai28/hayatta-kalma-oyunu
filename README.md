@@ -56,7 +56,7 @@ int main() {
                         siginak++; 
                         printf("Basarili! Yeni bir siginak kurdun. (Toplam Siginak: %d)\n", siginak);
                     } else {
-                        printf("Uygun bir yer bulamadın.\n");
+                        printf("Uygun bir yer bulamadin.\n");
                     }
                 } else {
                     printf("Aramak icin enerjin yok.\n");
