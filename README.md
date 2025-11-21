@@ -105,7 +105,7 @@ int main() {
                     if(sifre_giris != '1') {
                         printf("Yanlis sifre! Tekrar dene.\n");
                     }
-                } while (sifre_giris != '7');
+                } while (sifre_giris != '1');
                 printf("Kapi acildi! Engeli astin.\n");
                 break;
 
